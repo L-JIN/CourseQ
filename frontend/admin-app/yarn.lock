@@ -1721,7 +1721,7 @@ aws4@^1.8.0:
 
 axios@^0.19.2:
   version "0.19.2"
-  resolved "http://r.cnpmjs.org/axios/download/axios-0.19.2.tgz#3ea36c5d8818d0d5f8a8a97a6d36b86cdc00cb27"
+  resolved "https://r.cnpmjs.org/axios/download/axios-0.19.2.tgz#3ea36c5d8818d0d5f8a8a97a6d36b86cdc00cb27"
   integrity sha1-PqNsXYgY0NX4qKl6bTa4bNwAyyc=
   dependencies:
     follow-redirects "1.5.10"
@@ -2454,7 +2454,7 @@ combined-stream@^1.0.6, combined-stream@~1.0.6:
 
 commander@*:
   version "5.1.0"
-  resolved "http://r.cnpmjs.org/commander/download/commander-5.1.0.tgz#46abbd1652f8e059bddaef99bbdcb2ad9cf179ae"
+  resolved "https://r.cnpmjs.org/commander/download/commander-5.1.0.tgz#46abbd1652f8e059bddaef99bbdcb2ad9cf179ae"
   integrity sha1-Rqu9FlL44Fm92u+Zu9yyrZzxea4=
 
 commander@2.17.x:
@@ -2967,7 +2967,7 @@ debug@3.2.6, debug@^3.0.0, debug@^3.1.1, debug@^3.2.5:
 
 debug@=3.1.0:
   version "3.1.0"
-  resolved "http://r.cnpmjs.org/debug/download/debug-3.1.0.tgz#5bb5a0672628b64149566ba16819e61518c67261"
+  resolved "https://r.cnpmjs.org/debug/download/debug-3.1.0.tgz#5bb5a0672628b64149566ba16819e61518c67261"
   integrity sha1-W7WgZyYotkFJVmuhaBnmFRjGcmE=
   dependencies:
     ms "2.0.0"
@@ -4108,7 +4108,7 @@ flush-write-stream@^1.0.0:
 
 follow-redirects@1.5.10:
   version "1.5.10"
-  resolved "http://r.cnpmjs.org/follow-redirects/download/follow-redirects-1.5.10.tgz#7b7a9f9aea2fdff36786a94ff643ed07f4ff5e2a"
+  resolved "https://r.cnpmjs.org/follow-redirects/download/follow-redirects-1.5.10.tgz#7b7a9f9aea2fdff36786a94ff643ed07f4ff5e2a"
   integrity sha1-e3qfmuov3/NnhqlP9kPtB/T/Xio=
   dependencies:
     debug "=3.1.0"
@@ -4516,9 +4516,9 @@ hex-color-regex@^1.1.0:
   integrity sha1-TAb8y0YC/iYCs8k9+C1+fb8aio4=
 
 highlight.js@^9.6.0:
-  version "9.18.1"
-  resolved "https://registry.npm.taobao.org/highlight.js/download/highlight.js-9.18.1.tgz#ed21aa001fe6252bb10a3d76d47573c6539fe13c"
-  integrity sha1-7SGqAB/mJSuxCj121HVzxlOf4Tw=
+  version "9.18.5"
+  resolved "https://registry.yarnpkg.com/highlight.js/-/highlight.js-9.18.5.tgz#d18a359867f378c138d6819edfc2a8acd5f29825"
+  integrity sha512-a5bFyofd/BHCX52/8i8uJkjr9DYwXIPnM/plwI6W7ezItLGqzt7X2G2nXuYSfsIJdkwwj/g9DG1LkcGJI/dDoA==
 
 hmac-drbg@^1.0.0:
   version "1.0.1"
@@ -6044,7 +6044,7 @@ mochapack@^1.1.13:
 
 mockjs@^1.1.0:
   version "1.1.0"
-  resolved "http://r.cnpmjs.org/mockjs/download/mockjs-1.1.0.tgz#e6a0c378e91906dbaff20911cc0273b3c7d75b06"
+  resolved "https://r.cnpmjs.org/mockjs/download/mockjs-1.1.0.tgz#e6a0c378e91906dbaff20911cc0273b3c7d75b06"
   integrity sha1-5qDDeOkZBtuv8gkRzAJzs8fXWwY=
   dependencies:
     commander "*"
@@ -9038,7 +9038,7 @@ vm-browserify@^1.0.1:
 
 vue-axios@^2.1.5:
   version "2.1.5"
-  resolved "http://r.cnpmjs.org/vue-axios/download/vue-axios-2.1.5.tgz#1af4bf1218ed71309c76afb38d0f683e312c24a7"
+  resolved "https://r.cnpmjs.org/vue-axios/download/vue-axios-2.1.5.tgz#1af4bf1218ed71309c76afb38d0f683e312c24a7"
   integrity sha1-GvS/EhjtcTCcdq+zjQ9oPjEsJKc=
 
 vue-cli-plugin-element@~1.0.1:
